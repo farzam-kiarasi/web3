@@ -300,3 +300,4 @@ C:\Users\farza\source\repos\WebApplication3\obj\Debug\net9.0\refint\WebApplicati
 C:\Users\farza\source\repos\WebApplication3\obj\Debug\net9.0\WebApplication3.pdb
 C:\Users\farza\source\repos\WebApplication3\obj\Debug\net9.0\WebApplication3.genruntimeconfig.cache
 C:\Users\farza\source\repos\WebApplication3\obj\Debug\net9.0\ref\WebApplication3.dll
+C:\Users\farza\source\repos\WebApplication3\obj\Debug\net9.0\WebApplication3.sourcelink.json
