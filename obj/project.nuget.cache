@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MYESHpqpNvA=",
+  "dgSpecHash": "1W+l58njQPI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\farza\\source\\repos\\WebApplication3\\WebApplication3.csproj",
+  "projectFilePath": "C:\\Users\\farza\\source\\repos\\farzam-kiarasi\\web3\\WebApplication3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\farza\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\farza\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
